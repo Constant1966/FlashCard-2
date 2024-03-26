@@ -14,4 +14,4 @@
 - [ ] User can also enter multiple choice answers when creating a card
 - [ ] App is further styled and customized!
 
-<img src="https://github.com/Constant1966/FlashCard-2/blob/master/flashcard.gif" width="200" height="400" />  
+<img src="https://github.com/Constant1966/FlashCard-2/blob/master/flashcard.gif" width="300" height="400" />  
