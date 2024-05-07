@@ -13,6 +13,9 @@
         android:theme="@style/Theme.FlashCard_2"
         tools:targetApi="31">
         <activity
+            android:name=".AddCardActivity_1"
+            android:exported="false" />
+        <activity
             android:name=".AddCardActivity"
             android:exported="false" />
         <activity
